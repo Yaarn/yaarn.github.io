@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Yaarn Docs
+description: Documentation for Yaarn
 theme: just-the-docs
+logo: /assets/images/logo.png
 
-url: https://just-the-docs.github.io
+url: https://docs.yaarn.ai
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Yaarn Homepage: https://yaarn.ai
