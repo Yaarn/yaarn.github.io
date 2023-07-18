@@ -4,6 +4,7 @@ theme: just-the-docs
 logo: /assets/images/logo.png
 
 url: https://docs.yaarn.ai
+color_scheme: yaarn
 
 aux_links:
   Yaarn Homepage: https://yaarn.ai
