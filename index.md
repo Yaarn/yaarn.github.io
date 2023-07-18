@@ -3,30 +3,28 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Welcome to the Yaarn Documentation Site
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+This is the official documentation of Yaarn, your reliable PRM (Public Relations Management) Software as a Service application. We aim to help public relations professionals and agencies stay organized, efficient, and productive by providing an all-in-one platform for managing clients and their activities, collating coverage, generating content, and keeping up-to-date with relevant news.
 
-More specifically, the created site:
+This site is offered to give you a quick guide on how to maximise the usage of our software.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## Pages
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+1. [Getting Started](https://docs.yaarn.ai/getting-started) - Provides the basics to get you up and running as quickly as possible.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+2. [Managing Clients](https://docs.yaarn.ai/managing-clients) - Teaches you how to add new clients, update client details, monitor client activities and everything else about client management.
 
-To get started with creating a site, just click "[use this template]"!
+3. [Collating Coverage](https://docs.yaarn.ai/collating-coverage) - Details the steps on how to systematically collate coverage from various media outlets.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+4. [Creating Content](https://docs.yaarn.ai/creating-content) - Shows how to effectively generate well-crafted press releases using the Loom feature.
 
-----
+5. [Keeping Updated](https://docs.yaarn.ai/keeping-updated) - Instructs how to use the News Agent feature so you're always in the loop with all the relevant news within your agency.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+6. [FAQs](https://docs.yaarn.ai/faqs) - Addresses the most frequently asked questions about our service.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Support
+
+If you have questions about Yaarn that aren't answered on our docs site, please feel free to reach out to us at [support@yaarn.ai](mailto:support@yaarn.ai). We're happy to help.
+
+Stay tuned for updates, as we're always striving to improve and expand our platform.
