@@ -14,15 +14,11 @@ This site is offered to give you a quick guide on how to maximise the usage of o
 
 1. [Getting Started](https://docs.yaarn.ai/getting-started) - Provides the basics to get you up and running as quickly as possible.
 
-2. [Managing Clients](https://docs.yaarn.ai/managing-clients) - Teaches you how to add new clients, update client details, create client activities and everything else about client management.
+2. [Adding users](https://docs.yaarn.ai/adding-users) - Guides you through the process of adding new users to your workspace.
 
-3. [Collating Coverage](https://docs.yaarn.ai/collating-coverage) - Details the steps on how to collate coverage from various media outlets.
+3. [Managing Clients](https://docs.yaarn.ai/managing-clients) - Teaches you how to add new clients, update client details, create client activities and everything else about client management.
 
-4. [Creating Content](https://docs.yaarn.ai/creating-content) - Shows how to effectively generate well-crafted press releases and other content using the Loom feature.
-
-5. [Keeping Updated](https://docs.yaarn.ai/news-agent) - Instructs how to use the News Agent feature so you're always in the loop.
-
-6. [FAQs](https://docs.yaarn.ai/faqs) - Addresses the most frequently asked questions about our service.
+4. [FAQs](https://docs.yaarn.ai/faqs) - Addresses the most frequently asked questions about our service.
 
 ## Support
 

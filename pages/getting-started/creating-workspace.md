@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Getting Started"
-permalink: /getting-started/
+title: "Creating a workspace"
+parent: "Getting started"
+permalink: /creating-workspace/
 nav_order: 2
 ---
 
-# Getting Started with Yaarn
+# Creating your workspace
 
 Welcome! We appreciate your interest in Yaarn. The following guide will help you hit the grounds running with our PRM tool.
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Managing Clients"
+parent: "Using Yaarn"
 permalink: /managing-clients/
 ---
 
@@ -12,17 +13,27 @@ Managing your clients efficiently is easy with Yaarn. Here, we'll guide you thro
 
 1. Navigate to _Settings > Clients > Create Client_.
 
-2. You'll be taken to a setup wizard with five stages. In the **first step**, you'll need to enter the following details:
+![Client sidebar](/assets/images/client-sidebar.png)
 
-   - **Client’s name**: This identifies the client in your workspace.
+**Important Note:** If you add a client to the Employee section, they will be invited to their Yaarn client page and will be able to see their news for the day, activities in their planner, and coverage. Skip this step if you’re not ready to invite clients to your Yaarn workspace.
 
-   - **Tags**: These tags are essential for tagging news wrap items.
+_Tip: If you’re in a hurry, just add the client name, tags and city. You can update everything else later._
 
-   - **Address**: The main location of the client's business.
+2. You'll be taken to a setup wizard with five stages.
 
-   - **Boilerplate**: A brief description of the client's company, product, or service. This is important as our built-in AI relies on this context to function properly.
+![Client modal](/assets/images/client-modal.png)
 
-   - **Service Scope**: Describe the range of services that your agency is offering to the client.
+In the **first step**, you'll need to enter the following details:
+
+- **Client’s name**: This identifies the client in your workspace.
+
+- **Tags**: These tags are essential for tagging news wrap items.
+
+- **Address**: The main location of the client's business.
+
+- **Boilerplate**: A brief description of the client's company, product, or service. This is important as our built-in AI relies on this context to function properly.
+
+- **Service Scope**: Describe the range of services that your agency is offering to the client.
 
 3. In the **second step**, you'll have to upload your client's logo. This is important as it will appear in client profiles.
 
