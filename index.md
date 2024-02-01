@@ -12,7 +12,7 @@ This site is offered to give you a quick guide on how to maximise the usage of o
 
 ## Pages
 
-1. [Getting Started](https://docs.yaarn.ai/getting-started) - Provides the basics to get you up and running as quickly as possible.
+1. [Getting Started](https://docs.yaarn.ai/pages/getting-started) - Provides the basics to get you up and running as quickly as possible.
 
 2. [Adding users](https://docs.yaarn.ai/adding-users) - Guides you through the process of adding new users to your workspace.
 
