@@ -1,0 +1,47 @@
+.api-docs {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.endpoint {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.method {
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.method.get {
+  background-color: #e7f0f7;
+}
+.method.post {
+  background-color: #e7f7e7;
+}
+.method.put {
+  background-color: #f7f7e0;
+}
+.method.delete {
+  background-color: #f7e7e7;
+}
+
+.error {
+  color: red;
+  padding: 10px;
+  border: 1px solid red;
+  border-radius: 4px;
+}
+
+.schema ul {
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.schema li {
+  margin-bottom: 10px;
+}
