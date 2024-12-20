@@ -10,7 +10,7 @@ title: API Documentation
   
   <div class="base-url-container">
     <strong>Base URL:</strong>
-    <code>https://api.yaarn.ai/public/</code>
+    <code>https://api.yaarn.ai/</code>
   </div>
 
   <div class="api-description">
