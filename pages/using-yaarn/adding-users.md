@@ -25,6 +25,8 @@ _Tip: If their client doesn't exist, you’ll need to create a new client. You c
 
 ![Assign clients](/assets/images/assign-clients.png)
 
-**To permanently delete a user click the Delete button**. To archive a user without permanently deleting them, click the Archived checkbox.
+**To permanently delete a user click the Delete button**. 
+
+**To archive a user** (without permanently deleting them), click the Archive button.
 
 **To restrict or change permissions for standard Agency users,** click the Advanced Options button → Agency text and check or uncheck the permissions.
