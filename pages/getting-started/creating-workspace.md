@@ -8,7 +8,7 @@ nav_order: 2
 
 # Creating your workspace
 
-Welcome! We appreciate your interest in Yaarn. The following guide will help you hit the grounds running with our PRM tool.
+Welcome! We appreciate your interest in Yaarn. The following guide will help you hit the ground running with our PRM tool.
 
 ## Step 1: Create workspace
 
@@ -26,12 +26,33 @@ The profile is the name of the user who will be the primary administrator of the
 
 At the heart of every PR agency are the strategists and managers. On Yaarn, you are provided with a user-friendly interface to add and manage team members.
 
-To do this, simply click "Add your first team member". Input their name and email address, designate their role (e.g., agency manager or client), and an invitation email will be sent to them.
+To add team members:
 
-They simply have to accept the invite and set up their profile, and voila - they are now active members of your workspace!
+1. Click "Add your first team member"
+2. Input their name and email address
+3. Designate their role (e.g., agency manager or client)
+4. An invitation email will be sent to them automatically
+
+They simply have to accept the invite and set up their profile to become active members of your workspace.
 
 ### Add clients
 
-Once you have added your team members, you can now add your clients. To do this, click "Add your first client". You can use this to invite users from the client side as well, so that they're able to view their own activities and coverage.
+Once you have added your team members, you can add your clients:
+
+1. Click "Add your first client"
+2. Fill out the client details including:
+   - Client name
+   - Tags (relevant to their industry and likely news mentions)
+   - Address
+   - Boilerplate description
+   - Service scope
+3. Upload the client's logo
+4. Add spokespeople information
+5. Add client employees (optional)
+6. Assign agency managers to the client
+
+_Important Note: If you add a client to the Employee section, they will be invited to their Yaarn client page and will be able to see their news for the day, activities in their planner, and coverage. Skip this step if you're not ready to invite clients to your Yaarn workspace._
+
+_Tip: If you're in a hurry, just add the client name, tags and city. You can update everything else later._
 
 If you have further questions, please look into our [FAQs](https://docs.yaarn.ai/faqs) or feel free to reach out to our friendly support team at [contact@yaarn.ai](mailto:contact@yaarn.ai). We are here to help you get started and ensure your user experience of Yaarn is as smooth as possible. Enjoy Yaarn and welcome aboard!

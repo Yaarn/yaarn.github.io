@@ -10,15 +10,34 @@ permalink: /faqs/
 
 Yaarn is a Public Relations Management (PRM) software that helps public relations professionals and agencies stay organized, efficient, and productive by providing an all-in-one platform for managing clients and their activities, collating coverage, generating content, and keeping up-to-date with relevant news.
 
-### How can Yaarn help me to manage my PR campaigns?
+### How can Yaarn help me manage my PR campaigns?
+
+Yaarn provides comprehensive tools for PR campaign management including:
+
+- Activity tracking and task management
+- Coverage monitoring and reporting
+- News monitoring and wrap generation
+- Content creation with AI assistance
+- Client and team collaboration features
 
 ### How does Yaarn's AI aid in generating better content?
 
-Yaarn helps you generate better content by providing you with a content writing tool called Loom. Loom uses AI to help you quickly write
+Yaarn helps you generate better content through Loom, our AI-powered content writing tool. Loom can help:
 
-### Can Yaarn help me understand the news better? How does it do this?
+- Generate various types of PR content (articles, blogs, pitches)
+- Edit and enhance existing content
+- Provide AI-assisted editing suggestions
+- Create content from scratch or improve uploaded content
 
-By using the News Agent feature, Yaarn helps you understand the news better by providing you with a news feed that is tailored to your interests and needs. This feature helps you stay up-to-date with relevant news and trends in your industry.
+### Can Yaarn help me understand the news better?
+
+Yes, through the NewsAgent feature, Yaarn provides:
+
+- Customized news feeds tailored to your interests
+- Relevant industry news monitoring
+- Journalist and publication tracking
+- AI-powered news analysis and insights
+- Automated news wrap generation
 
 ### What are the features of Yaarn's client dashboard?
 

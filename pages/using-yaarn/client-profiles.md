@@ -1,9 +1,76 @@
 ---
 layout: page
-title: "Managing Clients"
+title: "Client Profiles"
 parent: "Using Yaarn"
-permalink: /managing-clients/
+permalink: /client-profiles/
 ---
+
+# Client Profiles
+
+The client profile page serves as a central hub for managing client information, storing important documents, and accessing key features.
+
+## Accessing Client Profiles
+
+1. Click **Clients** in the sidebar
+2. Select the desired client name
+
+## Profile Features
+
+### Main Information
+
+The profile page displays essential client information including:
+
+- Company details
+- Contact information
+- Service scope
+- Brand assets
+- Team assignments
+
+### Meeting Notes
+
+To add meeting notes:
+
+1. Click **Meeting Notes → Create Meeting Notes**
+2. Add a title
+3. Enter your notes
+4. Add relevant tags for easy searching
+5. Click **Preview** to review formatting
+6. Click **Submit** to save
+
+_Note: To delete a note, click the three dots (⋮) in the top right corner of the note._
+
+### Comment Bank
+
+Store and manage client comments and statements:
+
+1. Click **Comment Bank → Create Comment**
+2. Add a title
+3. Enter the comment or statement
+4. Add relevant tags
+5. Click **Submit** to save
+
+_Note: Comments can be deleted using the three dots (⋮) menu._
+
+### Quick Access
+
+From the profile page, you can quickly access:
+
+- Account activities
+- Client coverage
+- Competitor analysis
+- Meeting notes
+- Comments and statements
+
+## Client View
+
+If clients have been invited to your workspace, they will see a simplified version of their profile page that includes:
+
+- Basic company information
+- Recent activities
+- Coverage updates
+- News mentions
+
+_Note: Clients cannot see the Notes section or internal team communications._
 
 # Managing Clients with Yaarn
 
