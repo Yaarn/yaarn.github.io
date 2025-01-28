@@ -11,10 +11,17 @@ The Activity Tracker helps you manage and monitor all client-related tasks and p
 
 ## Accessing the Activity Tracker
 
+There are 2 ways to use the Activity Tracker:
+
+1. View all of your individual tasks across all clients
+2. View all of a client's account activities
+
+To access a client's activities:
+
 1. Navigate to **Clients → Client's Name → Activities** in the sidebar
 2. Or click **Activities** at the top of the client profile page
 
-_Note: Clients can view their own version of this page to stay updated on ongoing activities._
+_Note: Clients can view the same version of this page to stay updated on ongoing activities._
 
 ## Managing Activities
 
@@ -40,29 +47,33 @@ There are two ways to edit tasks:
 
 ### Task Information
 
-When editing a task, you can:
+When editing a task in the sidebar, you can:
 
 - Add detailed notes
+- Add comments and view comment history
 - Attach relevant files
 - Assign team members
 - Set deadlines
 - Adjust priority levels
 - Update status
-- View comment history
+- Delete the task
 
 ## Task Organization
 
-Tasks are automatically grouped based on their status. Categories include:
-
-- To Do
-- In Progress
-- Completed
-- On Hold
-
-High-priority and urgent tasks will appear on:
+Tasks will automatically be grouped based on their status. The most high-priority and urgent tasks will appear on:
 
 - Your personal dashboard
 - The client's dashboard
 - Team members' dashboards (if assigned)
 
 _Tip: Use the priority settings carefully to ensure the most important tasks are visible to all relevant team members._
+
+## Screenshots
+
+### Client Activity Page
+
+![Client Activity Page](/assets/image15.png)
+
+### Activity Task Side Bar
+
+![Activity Task Side Bar](/assets/image59.png)
