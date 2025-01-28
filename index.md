@@ -13,40 +13,41 @@ This is the official documentation of Yaarn, your reliable PRM (Public Relations
 1. [Getting Started](https://docs.yaarn.ai/pages/getting-started) - Essential information for new users:
    - [Creating a Workspace](https://docs.yaarn.ai/creating-workspace)
    - [Logging In](https://docs.yaarn.ai/logging-in)
-   - [Adding Users](https://docs.yaarn.ai/adding-users)
 
 ## Using Yaarn
 
 2. [Dashboard](https://docs.yaarn.ai/dashboard) - Learn about your central hub for tracking activities, metrics, and news.
 
-3. [Client Management](https://docs.yaarn.ai/client-profiles) - Everything about managing your clients:
+3. [Adding Users](https://docs.yaarn.ai/adding-users) - Learn how to add users to your workspace.
+
+4. [Client Management](https://docs.yaarn.ai/client-profiles) - Everything about managing your clients:
 
    - Creating and editing client profiles
    - Managing client activities
    - Storing meeting notes and comments
    - Team assignments
 
-4. [Activity Tracking](https://docs.yaarn.ai/activity-tracking) - Track and manage client tasks and projects:
+5. [Activity Tracking](https://docs.yaarn.ai/activity-tracking) - Track and manage client tasks and projects:
 
    - Adding and editing tasks
    - Setting priorities and deadlines
    - Team collaboration features
 
-5. [Coverage Tracking](https://docs.yaarn.ai/coverage-tracking) - Monitor and assess client coverage:
+6. [Coverage Tracking](https://docs.yaarn.ai/coverage-tracking) - Monitor and assess client coverage:
 
    - Adding and managing coverage
    - Coverage metrics and analysis
    - Generating reports
    - Bulk importing
 
-6. [News Agent](https://docs.yaarn.ai/news-agent) - Stay updated with relevant news:
+7. [News Agent](https://docs.yaarn.ai/news-agent) - Stay updated with relevant news:
 
    - Daily news wrap
    - Custom news feeds
    - Managing sources and keywords
    - Sharing and saving articles
 
-7. [Loom Content Generation](https://docs.yaarn.ai/loom) - Create and manage content:
+8. [Loom Content Generation](https://docs.yaarn.ai/loom) - Create and manage content:
    - AI-powered content generation
    - Content editing tools
    - Client review process
@@ -54,7 +55,7 @@ This is the official documentation of Yaarn, your reliable PRM (Public Relations
 
 ## Developer Resources
 
-8. [API Documentation](https://docs.yaarn.ai/api-docs) - Complete API reference for developers integrating with Yaarn.
+9. [API Documentation](https://docs.yaarn.ai/api-docs) - Complete API reference for developers integrating with Yaarn.
 
 ## Support
 

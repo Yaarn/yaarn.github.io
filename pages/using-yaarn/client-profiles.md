@@ -101,8 +101,6 @@ Enter the following details:
 - **Boilerplate**: Brief description of the client's company (important for AI context)
 - **Service Scope**: Range of services your agency is offering
 
-![Client details](/assets/images/image55.png)
-
 ### Second Step
 
 Upload your client's logo for use in client profiles.
@@ -115,8 +113,6 @@ Input your client's spokespeople:
 - Title
 - Biography
   Add multiple spokespeople using the 'Add Spokesperson' button.
-
-![Spokespeople](/assets/images/image62.png)
 
 ### Fourth Step
 
@@ -138,8 +134,6 @@ The profile page displays essential client information including:
 - Brand assets
 - Team assignments
 
-![Client profile](/assets/images/image15.png)
-
 ### Meeting Notes
 
 To add meeting notes:
@@ -150,8 +144,6 @@ To add meeting notes:
 4. Add relevant tags for easy searching
 5. Click **Preview** to review formatting
 6. Click **Submit** to save
-
-![Meeting notes](/assets/images/image59.png)
 
 _Note: To delete a note, click the three dots (⋮) in the top right corner of the note._
 
@@ -165,8 +157,6 @@ Store and manage client comments and statements:
 4. Add relevant tags
 5. Click **Submit** to save
 
-![Comment bank](/assets/images/image37.png)
-
 _Note: Comments can be deleted using the three dots (⋮) menu._
 
 ### Quick Access
@@ -179,8 +169,6 @@ From the profile page, you can quickly access:
 - Meeting notes
 - Comments and statements
 
-![Quick access](/assets/images/image35.png)
-
 ## Client View
 
 If clients have been invited to your workspace, they will see a simplified version of their profile page that includes:
@@ -189,8 +177,6 @@ If clients have been invited to your workspace, they will see a simplified versi
 - Recent activities
 - Coverage updates
 - News mentions
-
-![Client view](/assets/images/image43.png)
 
 _Note: Clients cannot see the Notes section or internal team communications._
 
@@ -204,8 +190,6 @@ You may want to hide the sentiment analysis and competitor analysis from certain
 2. Click on the **Client role** to modify permissions
 3. Untick the boxes for "Can view competitor analysis" and "Can view client sentiment"
 
-![Role permissions](/assets/images/image38.jpg)
-
 ### Hiding Analysis for Specific Clients
 
 If you want to hide these analyses only from specific clients, you will need to create a new role.
@@ -214,7 +198,5 @@ If you want to hide these analyses only from specific clients, you will need to 
 2. Name your new role and assign the desired permissions, ensuring that "Can view competitor analysis" and "Can view client sentiment" remain unticked.
 3. Go back to the **Settings → Users** page found under the left-hand navigation bar.
 4. Click **Edit** for each user that you want to assign the new role to, then select the new role from the dropdown menu.
-
-![User roles](/assets/images/image57.jpg)
 
 _Note: These settings can always be adjusted later if needed._

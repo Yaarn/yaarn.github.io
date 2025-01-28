@@ -68,13 +68,3 @@ Tasks will automatically be grouped based on their status. The most high-priorit
 - Team members' dashboards (if assigned)
 
 _Tip: Use the priority settings carefully to ensure the most important tasks are visible to all relevant team members._
-
-## Screenshots
-
-### Client Activity Page
-
-![Client Activity Page](/assets/image15.png)
-
-### Activity Task Side Bar
-
-![Activity Task Side Bar](/assets/image59.png)

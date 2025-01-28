@@ -10,16 +10,12 @@ nav_order: 5
 
 The News Agent helps you stay on top of relevant news for your clients and industry. It automatically curates and delivers personalized news feeds based on your clients' keywords and interests.
 
-![News agent overview](/assets/images/image70.jpg)
-
 ## Accessing News
 
 There are two ways to access news:
 
 1. From your dashboard - shows news across all clients
 2. From individual client profiles - shows client-specific news
-
-![News access](/assets/images/image4.jpg)
 
 ## Daily News Wrap
 
@@ -28,8 +24,6 @@ Every morning, you'll receive a curated digest of the most relevant news stories
 1. Click the **News** tab in the sidebar
 2. Select **Daily Wrap**
 3. Filter by client or view all news
-
-![Daily wrap](/assets/images/image8.jpg)
 
 _Tip: You can customize delivery times and frequency in Settings → Notifications_
 
@@ -45,8 +39,6 @@ When viewing news items, you can:
 - Share articles with team members
 - Add articles directly to coverage tracking
 
-![Article actions](/assets/images/image1.jpg)
-
 ### Managing News Sources
 
 To customize news sources:
@@ -55,8 +47,6 @@ To customize news sources:
 2. Select from available publications
 3. Add custom RSS feeds if needed
 4. Prioritize preferred sources
-
-![News sources](/assets/images/image67.jpg)
 
 ### Keywords and Filters
 
@@ -80,8 +70,6 @@ To share news items:
 3. Choose recipients (team members or clients)
 4. Add optional notes
 5. Send via email or in-platform notification
-
-![Share news](/assets/images/image63.jpg)
 
 ### Saving Articles
 
@@ -110,8 +98,6 @@ Track news performance metrics:
 - Sentiment trends
 - Source distribution
 - Topic clusters
-
-![News analytics](/assets/images/image11.jpg)
 
 _Tip: Export news analytics reports for client presentations or team reviews_
 
