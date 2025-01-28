@@ -1,6 +1,7 @@
 ---
 layout: default
 title: API Documentation
+nav_order: 3
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/openapi.css" />
