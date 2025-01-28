@@ -3,6 +3,7 @@ layout: page
 title: "Coverage Tracking"
 parent: "Using Yaarn"
 permalink: /coverage-tracking/
+nav_order: 4
 ---
 
 # Coverage Tracking

@@ -3,6 +3,7 @@ layout: page
 title: "YaarnBot"
 parent: "Using Yaarn"
 permalink: /yaarnbot/
+nav_order: 7
 ---
 
 # YaarnBot

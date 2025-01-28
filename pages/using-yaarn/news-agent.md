@@ -3,6 +3,7 @@ layout: page
 title: "News Agent"
 parent: "Using Yaarn"
 permalink: /news-agent/
+nav_order: 5
 ---
 
 # News Agent

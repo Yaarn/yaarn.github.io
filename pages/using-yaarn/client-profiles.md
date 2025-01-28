@@ -3,6 +3,7 @@ layout: page
 title: "Client Profiles"
 parent: "Using Yaarn"
 permalink: /client-profiles/
+nav_order: 2
 ---
 
 # Client Profiles

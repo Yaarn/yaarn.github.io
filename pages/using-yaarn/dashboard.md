@@ -3,6 +3,7 @@ layout: page
 title: "Dashboard"
 parent: "Using Yaarn"
 permalink: /dashboard/
+nav_order: 1
 ---
 
 # Welcome to your Dashboard

@@ -3,6 +3,7 @@ layout: page
 title: "Loom Content Generation"
 parent: "Using Yaarn"
 permalink: /loom/
+nav_order: 6
 ---
 
 # Generating Content with Loom

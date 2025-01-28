@@ -3,6 +3,7 @@ layout: page
 title: "Activity Tracking"
 parent: "Using Yaarn"
 permalink: /activity-tracking/
+nav_order: 3
 ---
 
 # Activity Tracking
