@@ -1,8 +1,8 @@
 title: Yaarn Docs
 description: Documentation for Yaarn
 theme: just-the-docs
-logo: /assets/images/images/logo.png
-favicon_ico: /assets/images/images/favicon.ico
+logo: /assets/images/logo.png
+favicon_ico: /assets/images/favicon.ico
 
 url: https://docs.yaarn.ai
 color_scheme: yaarn
