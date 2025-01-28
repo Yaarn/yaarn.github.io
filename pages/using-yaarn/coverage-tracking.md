@@ -58,3 +58,49 @@ Coverage can be added in three ways:
 - Email reports directly to yourself or clients
 
 _Tip: Star important coverage pieces to highlight them at the top of PDF reports._
+
+## Coverage Analysis
+
+### Sentiment Analysis
+
+Yaarn automatically analyzes the sentiment of each piece of coverage:
+
+- Positive (Green)
+- Neutral (Grey)
+- Negative (Red)
+
+### Key Message Tracking
+
+Track how often key messages appear in coverage:
+
+1. Set up key messages in the client profile
+2. The system will automatically detect these in new coverage
+3. View message frequency in the Coverage Analytics dashboard
+
+### Share of Voice
+
+Compare your client's coverage against competitors:
+
+1. Add competitor names in the client profile
+2. View comparative metrics in the Coverage Analytics dashboard
+3. Filter by date range or publication type
+
+## Coverage Reports
+
+### Automated Reports
+
+1. Click **Reports** in the coverage section
+2. Select report type (Daily, Weekly, Monthly)
+3. Choose metrics to include
+4. Set recipients and schedule
+5. Reports will be automatically generated and sent
+
+### Custom Reports
+
+1. Click **Create Custom Report**
+2. Select date range and coverage to include
+3. Choose layout template
+4. Add custom notes or analysis
+5. Preview and download or send directly to client
+
+_Tip: Save report templates for quick access in the future._

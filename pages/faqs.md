@@ -1,64 +1,35 @@
 ---
 layout: page
-title: "FAQs"
-permalink: /faqs/
+title: "Yaarn FAQ"
+permalink: /yaarn-faq/
 ---
 
-# Frequently Asked Questions
+# Yaarn Agency Guide
 
-### What exactly is Yaarn's PRM software?
+Welcome to Yaarn, your all-in-one PR platform for tracking news and coverage, managing clients and servicing, and generating engaging content.
 
-Yaarn is a Public Relations Management (PRM) software that helps public relations professionals and agencies stay organized, efficient, and productive by providing an all-in-one platform for managing clients and their activities, collating coverage, generating content, and keeping up-to-date with relevant news.
+Here are some tips to help you use this software. For help, email [contact@yaarn.ai](mailto:contact@yaarn.ai) and we'll be in touch faster than you can say 'print deadline'.
 
-### How can Yaarn help me manage my PR campaigns?
+## Logging into your Yaarn account
 
-Yaarn provides comprehensive tools for PR campaign management including:
+1. Head to [https://login.yaarn.ai/email](https://login.yaarn.ai/email)
+2. Select your workspace
+3. Confirm your email and get your login link (check your spam folder)
+4. Click the link in your email and you're in!
 
-- Activity tracking and task management
-- Coverage monitoring and reporting
-- News monitoring and wrap generation
-- Content creation with AI assistance
-- Client and team collaboration features
+## Adding new users to your workspace
 
-### How does Yaarn's AI aid in generating better content?
+1. In the sidebar, click the Settings tab → Users
+2. Click Invite User. Then, enter their name and email and choose whether you'd like them to be a standard user (Agency) or have access to restricted controls and settings (Admin). Click Submit and your new user is created.
+3. The new user will receive an invitation link in their email inbox.
 
-Yaarn helps you generate better content through Loom, our AI-powered content writing tool. Loom can help:
+_Tip: If they didn't receive the invitation or the link has expired, you can click Resend Invite._
 
-- Generate various types of PR content (articles, blogs, pitches)
-- Edit and enhance existing content
-- Provide AI-assisted editing suggestions
-- Create content from scratch or improve uploaded content
+Once a user has been added, click Edit and assign them clients from the dropdown list.
 
-### Can Yaarn help me understand the news better?
+_Tip: If their client doesn't exist, you'll need to create a new client. You can assign team members to clients on the client creation page._
 
-Yes, through the NewsAgent feature, Yaarn provides:
+4. To permanently delete a user click the Delete button. To archive a user without permanently deleting them, click the Archived checkbox.
+5. If you'd like to further restrict permissions for standard Agency users, click the Advanced Options button → Agency text and check or uncheck the permissions.
 
-- Customized news feeds tailored to your interests
-- Relevant industry news monitoring
-- Journalist and publication tracking
-- AI-powered news analysis and insights
-- Automated news wrap generation
-
-### What are the features of Yaarn's client dashboard?
-
-### How does Yaarn's activity tracker work?
-
-Similar to
-
-### What kind of planning tools does Yaarn offer for PR programs?
-
-### What is the NewsAgent feature in Yaarn?
-
-### Can Yaarn help improve my workflow and reduce emails?
-
-### How does Yaarn's Loom help in content writing for PR?
-
-### Is Yaarn suitable for both freelancers and agencies?
-
-### Can Yaarn help me never miss a comment opportunity? How?
-
-### How can I get real-time updates on my PR activities using Yaarn?
-
-### Does Yaarn provide any onboarding support for new users?
-
-### How is Yaarn different from other PRM software?
+[Continue converting sections...]
