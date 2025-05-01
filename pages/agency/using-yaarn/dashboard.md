@@ -2,7 +2,8 @@
 layout: page
 title: "Dashboard"
 parent: "Using Yaarn"
-permalink: /dashboard/
+grand_parent: "Agency Documentation"
+permalink: /agency/dashboard/
 nav_order: 1
 ---
 

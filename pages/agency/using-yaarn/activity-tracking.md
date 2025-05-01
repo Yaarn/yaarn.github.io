@@ -2,7 +2,8 @@
 layout: page
 title: "Activity Tracking"
 parent: "Using Yaarn"
-permalink: /activity-tracking/
+grand_parent: "Agency Documentation"
+permalink: /agency/activity-tracking/
 nav_order: 3
 ---
 

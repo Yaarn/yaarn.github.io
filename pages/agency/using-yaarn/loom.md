@@ -2,7 +2,8 @@
 layout: page
 title: "Loom Content Generation"
 parent: "Using Yaarn"
-permalink: /loom/
+grand_parent: "Agency Documentation"
+permalink: /agency/loom/
 nav_order: 6
 ---
 

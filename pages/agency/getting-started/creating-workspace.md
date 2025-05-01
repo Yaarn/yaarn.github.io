@@ -2,7 +2,8 @@
 layout: page
 title: "Creating a workspace"
 parent: "Getting started"
-permalink: /creating-workspace/
+grand_parent: "Agency Documentation"
+permalink: /agency/creating-workspace/
 nav_order: 2
 ---
 

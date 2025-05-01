@@ -2,7 +2,8 @@
 layout: page
 title: "Client Profiles"
 parent: "Using Yaarn"
-permalink: /client-profiles/
+grand_parent: "Agency Documentation"
+permalink: /agency/client-profiles/
 nav_order: 2
 ---
 

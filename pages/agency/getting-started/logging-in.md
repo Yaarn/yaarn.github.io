@@ -2,7 +2,8 @@
 layout: page
 title: "Logging in to your workspace"
 parent: "Getting started"
-permalink: /logging-in/
+grand_parent: "Agency Documentation"
+permalink: /agency/logging-in/
 nav_order: 2
 ---
 
@@ -26,4 +27,4 @@ Confirm your email and get your login link (check your spam folder).
 
 ![Login link](/assets/images/login-link.png)
 
-Click the link in your email and you’re in!
+Click the link in your email and you're in!

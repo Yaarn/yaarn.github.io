@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Using Yaarn
-nav_order: 2
+parent: Agency Documentation
 has_children: true
-permalink: /using-yaarn/
+nav_order: 3
+permalink: /agency/using-yaarn/
 ---
 
 # Using Yaarn

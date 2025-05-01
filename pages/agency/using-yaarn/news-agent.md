@@ -2,7 +2,8 @@
 layout: page
 title: "News Agent"
 parent: "Using Yaarn"
-permalink: /news-agent/
+grand_parent: "Agency Documentation"
+permalink: /agency/news-agent/
 nav_order: 5
 ---
 

@@ -2,7 +2,8 @@
 layout: page
 title: "YaarnBot"
 parent: "Using Yaarn"
-permalink: /yaarnbot/
+grand_parent: "Agency Documentation"
+permalink: /agency/yaarnbot/
 nav_order: 7
 ---
 

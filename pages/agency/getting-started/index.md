@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Getting started
+parent: Agency Documentation
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 # Getting started

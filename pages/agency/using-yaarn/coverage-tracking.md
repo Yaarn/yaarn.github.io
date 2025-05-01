@@ -2,7 +2,8 @@
 layout: page
 title: "Coverage Tracking"
 parent: "Using Yaarn"
-permalink: /coverage-tracking/
+grand_parent: "Agency Documentation"
+permalink: /agency/coverage-tracking/
 nav_order: 4
 ---
 

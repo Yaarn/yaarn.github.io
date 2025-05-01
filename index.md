@@ -1,64 +1,32 @@
 ---
-title: Home
+title: Welcome to Yaarn
 layout: home
 nav_order: 0
 ---
 
-# Welcome to the Yaarn Documentation Site
+# Welcome to Yaarn
 
-This is the official documentation of Yaarn, your reliable PRM (Public Relations Management) application. We aim to help public relations professionals and agencies stay organized, efficient, and productive by providing an all-in-one platform for managing clients and their activities, collating coverage, generating content, and keeping up-to-date with relevant news.
+Yaarn is a powerful PRM (Public Relations Management) platform designed to help you stay organized, efficient, and productive in managing public relations activities.
 
-## Getting Started
+## How are you using Yaarn?
 
-1. [Getting Started](https://docs.yaarn.ai/pages/getting-started) - Essential information for new users:
-   - [Creating a Workspace](https://docs.yaarn.ai/creating-workspace)
-   - [Logging In](https://docs.yaarn.ai/logging-in)
+### I run my own PR agency or business
 
-## Using Yaarn
+If you're using Yaarn to manage your own PR agency or business, you'll want to access the full platform documentation.
+This includes features for managing clients, tracking activities, monitoring coverage, and generating content.
 
-2. [Dashboard](https://docs.yaarn.ai/dashboard) - Learn about your central hub for tracking activities, metrics, and news.
+[View Agency Documentation →](pages/agency/)
 
-3. [Adding Users](https://docs.yaarn.ai/adding-users) - Learn how to add users to your workspace.
+### I've been invited by an agency
 
-4. [Client Management](https://docs.yaarn.ai/client-profiles) - Everything about managing your clients:
+If you've been invited by a PR agency to view and manage your coverage, you'll want to access the client-specific documentation.
+This includes features for viewing your coverage, managing your profile, and collaborating with your PR team.
 
-   - Creating and editing client profiles
-   - Managing client activities
-   - Storing meeting notes and comments
-   - Team assignments
+[View Client Documentation →](pages/client/)
 
-5. [Activity Tracking](https://docs.yaarn.ai/activity-tracking) - Track and manage client tasks and projects:
+## Need Help?
 
-   - Adding and editing tasks
-   - Setting priorities and deadlines
-   - Team collaboration features
-
-6. [Coverage Tracking](https://docs.yaarn.ai/coverage-tracking) - Monitor and assess client coverage:
-
-   - Adding and managing coverage
-   - Coverage metrics and analysis
-   - Generating reports
-   - Bulk importing
-
-7. [News Agent](https://docs.yaarn.ai/news-agent) - Stay updated with relevant news:
-
-   - Daily news wrap
-   - Custom news feeds
-   - Managing sources and keywords
-   - Sharing and saving articles
-
-8. [Loom Content Generation](https://docs.yaarn.ai/loom) - Create and manage content:
-   - AI-powered content generation
-   - Content editing tools
-   - Client review process
-   - Content management
-
-## Developer Resources
-
-9. [API Documentation](https://docs.yaarn.ai/api-docs) - Complete API reference for developers integrating with Yaarn.
-
-## Support
-
-If you have questions about Yaarn that aren't answered in our documentation, please feel free to reach out to us at [contact@yaarn.ai](mailto:contact@yaarn.ai). We're happy to help.
+If you have questions about Yaarn that aren't answered in our documentation, please feel
+free to reach out to us at [contact@yaarn.ai](mailto:contact@yaarn.ai). We're happy to help.
 
 For technical support or bug reports, email [support@yaarn.ai](mailto:support@yaarn.ai).
