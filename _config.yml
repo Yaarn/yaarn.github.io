@@ -1,11 +1,11 @@
-title: Yaarn Docs
-description: Documentation for Yaarn
+title: Pressto Docs
+description: Documentation for Pressto
 theme: just-the-docs
-logo: /assets/images/logo.png
+logo: /assets/images/logo.svg
 favicon_ico: /assets/images/favicon.ico
 
-url: https://docs.yaarn.ai
-color_scheme: yaarn
+url: https://docs.heypressto.ai
+color_scheme: pressto
 
 aux_links:
-  Yaarn Homepage: https://yaarn.ai
+  Pressto Homepage: https://heypressto.ai

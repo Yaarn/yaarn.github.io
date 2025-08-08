@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Coverage Tracking"
-parent: "Using Yaarn"
+parent: "Using Pressto"
 grand_parent: "Agency Documentation"
 permalink: /agency/coverage-tracking/
 nav_order: 4
@@ -9,7 +9,7 @@ nav_order: 4
 
 # Coverage Tracking
 
-Yaarn's coverage tracker helps you monitor and assess client coverage, discover suggested coverage, and manage coverage reporting.
+Pressto's coverage tracker helps you monitor and assess client coverage, discover suggested coverage, and manage coverage reporting.
 
 ## Accessing Coverage Tracking
 
@@ -50,7 +50,7 @@ Coverage can be added in three ways:
 1. Click **Add Coverage → Import**
 2. Upload your .xlsx or .csv file
 3. Select the appropriate sheet and header row
-4. Map your spreadsheet columns to Yaarn fields
+4. Map your spreadsheet columns to Pressto fields
 5. Review any errors and confirm the import
 
 ## Filtering and Exporting
@@ -65,7 +65,7 @@ _Tip: Star important coverage pieces to highlight them at the top of PDF reports
 
 ### Sentiment Analysis
 
-Yaarn automatically analyzes the sentiment of each piece of coverage:
+Pressto automatically analyzes the sentiment of each piece of coverage:
 
 - Positive (Green)
 - Neutral (Grey)

@@ -1,13 +1,50 @@
-$body-background-color: $white;
-$body-heading-color: $grey-dk-300;
-$body-text-color: $grey-dk-100;
-$link-color: $red-200;
-$nav-child-link-color: $grey-dk-100;
-$sidebar-color: $grey-lt-000;
-$base-button-color: #f7f7f7;
-$btn-primary-color: $red-200;
-$code-background-color: $grey-lt-000;
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap");
+
+// Pressto color scheme adapted from Chakra theme
+// presstoRed
+$red-50: #f1f5ff;
+$red-100: #e6ecff;
+$red-200: #cbd6ff;
+$red-300: #a6baff;
+$red-400: #2e3e73;
+$red-500: #0f1e3a; // dark navy (sidebar/background accent)
+$red-600: #0c182e;
+$red-700: #0a1325; // headings / primary text
+$red-800: #091021;
+$red-900: #070b18;
+
+// presstoCream
+$cream-50: #f6f8fc; // app background
+$cream-100: #f3f6fd;
+$cream-200: #e9eef9;
+$cream-300: #e0e7f5;
+$cream-400: #d7def0;
+$cream-500: #cdd6eb;
+
+// presstoYellow
+$yellow-100: #fff4d6;
+$yellow-200: #ffe6a8;
+$yellow-300: #ffd372;
+$yellow-400: #ffc24d;
+$yellow-500: #ffb020; // primary accent (buttons)
+
+// Base and typography
+$body-background-color: $cream-50;
+$body-heading-color: $red-700;
+$body-text-color: $red-700;
+$link-color: $red-400;
+
+// Sidebar (dark)
+$sidebar-color: $red-500;
+$nav-child-link-color: $cream-500;
+
+// Buttons / components
+$base-button-color: $cream-100;
+$btn-primary-color: $yellow-500;
+
+// Code / tables / search
+$code-background-color: $cream-200;
+$table-background-color: #ffffff;
 $feedback-color: darken($sidebar-color, 3%);
-$table-background-color: $white;
-$search-background-color: $white;
-$search-result-preview-color: $grey-dk-000;
+$search-background-color: $red-600; // search field in dark sidebar
+$search-result-preview-color: $cream-50;

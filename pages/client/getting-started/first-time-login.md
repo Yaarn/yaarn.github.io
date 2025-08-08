@@ -9,7 +9,7 @@ nav_order: 1
 
 # First Time Login
 
-Welcome to Yaarn! This guide will help you set up your account and get started with the platform.
+Welcome to Pressto! This guide will help you set up your account and get started with the platform.
 
 ## Setting Up Your Account
 

@@ -1,18 +1,18 @@
 ---
-title: Welcome to Yaarn
+title: Welcome to Pressto
 layout: home
 nav_order: 0
 ---
 
-# Welcome to Yaarn
+# Welcome to Pressto
 
-Yaarn is a powerful PRM (Public Relations Management) platform designed to help you stay organized, efficient, and productive in managing public relations activities.
+Pressto is a powerful PRM (Public Relations Management) platform designed to help you stay organized, efficient, and productive in managing public relations activities.
 
-## How are you using Yaarn?
+## How are you using Pressto?
 
 ### I run my own PR agency or business
 
-If you're using Yaarn to manage your own PR agency or business, you'll want to access the full platform documentation.
+If you're using Pressto to manage your own PR agency or business, you'll want to access the full platform documentation.
 This includes features for managing clients, tracking activities, monitoring coverage, and generating content.
 
 [View Agency Documentation →](pages/agency/)
@@ -26,7 +26,7 @@ This includes features for viewing your coverage, managing your profile, and col
 
 ## Need Help?
 
-If you have questions about Yaarn that aren't answered in our documentation, please feel
-free to reach out to us at [contact@yaarn.ai](mailto:contact@yaarn.ai). We're happy to help.
+If you have questions about Pressto that aren't answered in our documentation, please feel
+free to reach out to us at [contact@heypressto.ai](mailto:contact@heypressto.ai). We're happy to help.
 
-For technical support or bug reports, email [support@yaarn.ai](mailto:support@yaarn.ai).
+For technical support or bug reports, email [support@heypressto.ai](mailto:support@heypressto.ai).

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dashboard"
-parent: "Using Yaarn"
+parent: "Using Pressto"
 grand_parent: "Agency Documentation"
 permalink: /agency/dashboard/
 nav_order: 1
@@ -11,7 +11,7 @@ nav_order: 1
 
 The dashboard is your central place for tracking activities, metrics, news and more across all of your clients.
 
-When you log into Yaarn, you'll automatically be taken to your dashboard.
+When you log into Pressto, you'll automatically be taken to your dashboard.
 
 Here you can see:
 
@@ -30,7 +30,7 @@ Right-click on news articles to read a summary, or visit the article on the news
 
 ![Article details](/assets/images/image8.jpg)
 
-_Hint: We'll be adding more features to the dashboard shortly. For suggestions, email us at [support@yaarn.ai](mailto:support@yaarn.ai)_
+_Hint: We'll be adding more features to the dashboard shortly. For suggestions, email us at [support@heypressto.ai](mailto:support@heypressto.ai)_
 
 # Activity Tracker
 

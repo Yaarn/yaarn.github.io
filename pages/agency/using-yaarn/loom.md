@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Loom Content Generation"
-parent: "Using Yaarn"
+parent: "Using Pressto"
 grand_parent: "Agency Documentation"
 permalink: /agency/loom/
 nav_order: 6

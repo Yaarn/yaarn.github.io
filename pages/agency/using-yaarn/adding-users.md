@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Adding users"
-parent: "Using Yaarn"
+parent: "Using Pressto"
 grand_parent: "Agency Documentation"
 permalink: /agency/adding-users/
 ---

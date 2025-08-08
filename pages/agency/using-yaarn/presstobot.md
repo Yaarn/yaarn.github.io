@@ -1,23 +1,23 @@
 ---
 layout: page
-title: "YaarnBot"
-parent: "Using Yaarn"
+title: "PresstoBot"
+parent: "Using Pressto"
 grand_parent: "Agency Documentation"
-permalink: /agency/yaarnbot/
+permalink: /agency/presstobot/
 nav_order: 7
 ---
 
-# YaarnBot
+# PresstoBot
 
-YaarnBot is a handy AI helper that you can use to ask questions or complete small tasks such as writing emails, improving content, or proofreading.
+PresstoBot is a handy AI helper that you can use to ask questions or complete small tasks such as writing emails, improving content, or proofreading.
 
-## Accessing YaarnBot
+## Accessing PresstoBot
 
-You can find YaarnBot in the bottom-right hand corner of most pages. Just click on the YaarnBot icon to get started.
+You can find PresstoBot in the bottom-right hand corner of most pages. Just click on the PresstoBot icon to get started.
 
-## Using YaarnBot
+## Using PresstoBot
 
-1. Click on the example questions for common queries, or ask YaarnBot your own question
+1. Click on the example questions for common queries, or ask PresstoBot your own question
 2. Click the "Send a message" field and type your question
 3. Click the blue search button to generate a response
 
@@ -25,7 +25,7 @@ You can find YaarnBot in the bottom-right hand corner of most pages. Just click 
 
 ## Common Tasks
 
-YaarnBot can help with:
+PresstoBot can help with:
 
 - Writing emails
 - Improving content
@@ -35,7 +35,7 @@ YaarnBot can help with:
 
 ## Best Practices
 
-When using YaarnBot:
+When using PresstoBot:
 
 - Be specific in your requests
 - Provide clear context
@@ -47,9 +47,9 @@ When using YaarnBot:
 
 ## Important Notes
 
-- YaarnBot is designed to assist, not replace human judgment
+- PresstoBot is designed to assist, not replace human judgment
 - Always review and fact-check AI-generated content
 - Use your professional expertise to assess and refine suggestions
 - The system learns and improves through continued use and feedback
 
-For additional support or questions about YaarnBot, contact support@yaarn.ai.
+For additional support or questions about PresstoBot, contact support@heypressto.ai.

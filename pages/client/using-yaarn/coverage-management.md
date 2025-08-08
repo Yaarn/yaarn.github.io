@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Coverage Management"
-parent: "Using Yaarn as a Client"
+parent: "Using Pressto as a Client"
 grand_parent: "Client Documentation"
 permalink: /client/coverage-management/
 nav_order: 2
@@ -9,7 +9,7 @@ nav_order: 2
 
 # Coverage Management
 
-Manage and interact with your media coverage through Yaarn's coverage management system, visible from the Coverage section.
+Manage and interact with your media coverage through Pressto's coverage management system, visible from the Coverage section.
 
 ## Viewing Coverage
 

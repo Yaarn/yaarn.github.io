@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Using Yaarn
+title: Using Pressto
 parent: Agency Documentation
 has_children: true
 nav_order: 3
-permalink: /agency/using-yaarn/
+permalink: /agency/using-pressto/
 ---
 
-# Using Yaarn
+# Using Pressto
 
-This section covers all the core features and functionality of Yaarn, helping you make the most of your PR management platform.
+This section covers all the core features and functionality of Pressto, helping you make the most of your PR management platform.
 
 ## Core Features
 
@@ -54,7 +54,7 @@ Create and enhance content with AI assistance:
 - Use AI-powered writing tools
 - Collaborate on content review
 
-### [YaarnBot](/yaarnbot/)
+### [PresstoBot](/presstobot/)
 
 Get AI assistance for various tasks:
 
@@ -65,6 +65,6 @@ Get AI assistance for various tasks:
 
 ## Getting Help
 
-For technical support or questions about using Yaarn, contact us at [support@yaarn.ai](mailto:support@yaarn.ai).
+For technical support or questions about using Pressto, contact us at [support@heypressto.ai](mailto:support@heypressto.ai).
 
-For feature suggestions or general inquiries, reach out to [contact@yaarn.ai](mailto:contact@yaarn.ai).
+For feature suggestions or general inquiries, reach out to [contact@heypressto.ai](mailto:contact@heypressto.ai).

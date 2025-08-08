@@ -8,4 +8,4 @@ nav_order: 2
 
 # Getting started
 
-This section of the documentation will guide you through the process of getting started with Yaarn, creating a workspace, adding users and logging in.
+This section of the documentation will guide you through the process of getting started with Pressto, creating a workspace, adding users and logging in.

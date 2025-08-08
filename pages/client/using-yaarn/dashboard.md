@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Your Dashboard"
-parent: "Using Yaarn as a Client"
+parent: "Using Pressto as a Client"
 grand_parent: "Client Documentation"
 permalink: /client/dashboard/
 nav_order: 1

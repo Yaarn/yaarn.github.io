@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "News Agent"
-parent: "Using Yaarn"
+parent: "Using Pressto"
 grand_parent: "Agency Documentation"
 permalink: /agency/news-agent/
 nav_order: 5

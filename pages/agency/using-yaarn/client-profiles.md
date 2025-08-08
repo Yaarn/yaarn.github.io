@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Client Profiles"
-parent: "Using Yaarn"
+parent: "Using Pressto"
 grand_parent: "Agency Documentation"
 permalink: /agency/client-profiles/
 nav_order: 2
@@ -74,9 +74,9 @@ If clients have been invited to your workspace, they will see a simplified versi
 
 _Note: Clients cannot see the Notes section or internal team communications._
 
-# Managing Clients with Yaarn
+# Managing Clients with Pressto
 
-Managing your clients efficiently is easy with Yaarn. Here, we'll guide you through how to add new clients and edit existing ones on our platform.
+Managing your clients efficiently is easy with Pressto. Here, we'll guide you through how to add new clients and edit existing ones on our platform.
 
 ## Adding a New Client
 
@@ -84,7 +84,7 @@ Managing your clients efficiently is easy with Yaarn. Here, we'll guide you thro
 
 ![Client sidebar](/assets/images/image27.png)
 
-**Important Note:** If you add a client to the Employee section, they will be invited to their Yaarn client page and will be able to see their news for the day, activities in their planner, and coverage. Skip this step if you're not ready to invite clients to your Yaarn workspace.
+**Important Note:** If you add a client to the Employee section, they will be invited to their Pressto client page and will be able to see their news for the day, activities in their planner, and coverage. Skip this step if you're not ready to invite clients to your Pressto workspace.
 
 _Tip: If you're in a hurry, just add the client name, tags and city. You can update everything else later._
 

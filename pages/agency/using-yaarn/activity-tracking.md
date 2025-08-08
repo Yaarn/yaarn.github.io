@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Activity Tracking"
-parent: "Using Yaarn"
+parent: "Using Pressto"
 grand_parent: "Agency Documentation"
 permalink: /agency/activity-tracking/
 nav_order: 3

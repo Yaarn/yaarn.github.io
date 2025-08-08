@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Profile Management"
-parent: "Using Yaarn as a Client"
+parent: "Using Pressto as a Client"
 grand_parent: "Client Documentation"
 permalink: /client/profile-management/
 nav_order: 3
@@ -9,7 +9,7 @@ nav_order: 3
 
 # Profile Management
 
-Manage your company information and preferences in Yaarn.
+Manage your company information and preferences in Pressto.
 
 ## Company Details
 

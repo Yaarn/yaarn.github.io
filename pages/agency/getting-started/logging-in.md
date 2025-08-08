@@ -11,7 +11,7 @@ nav_order: 2
 
 ### Step 1: Go to login page
 
-Head to [https://login.yaarn.ai/email](https://login.yaarn.ai/email) to log in to your workspace.
+Head to [https://login.heypressto.ai/email](https://login.heypressto.ai/email) to log in to your workspace.
 
 ![Login page](/assets/images/log-in.png)
 
